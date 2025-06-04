@@ -49,7 +49,7 @@ Player Picks: 5 22 36 43 48 50 60 64 65 78
 You matched: 5 22 36 43 48 50 64 65 78 
 Matching 9 of 20 numbers wins $2,500
 
-Play another round? (y/n): y
+Play another round? (y/n): Y
 
 To play Keno, select 10 numbers in the range of 1-80.
 
