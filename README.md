@@ -23,11 +23,9 @@ the player’s picks, and which numbers they matched. The program tells the play
 The program allows the user to play repeatedly if they would like to continue playing.
 
 ## Game Interface Prototype Example
-<pre><b> ********************
- * Let's Play Keno! *
- ********************
-
-To play Keno, select 10 numbers in the range of 1-80.
+<pre><b>To play Keno, select 10 unique (no repeats) numbers in the range of 1-80.
+  
+Let's Play Keno!
 
 Enter your pick #1: 22
 Enter your pick #2: 50
@@ -51,7 +49,9 @@ Matching 9 of 20 numbers wins $2,500
 
 Play another round? (y/n): Y
 
-To play Keno, select 10 numbers in the range of 1-80.
+To play Keno, select 10 unique (no repeats) numbers in the range of 1-80.
+
+Let's Play Keno!
 
 Enter your pick #1: 55
 Enter your pick #2: 64
