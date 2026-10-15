@@ -25,7 +25,9 @@ the player’s picks, and which numbers they matched. The program tells the play
 The program allows the user to play repeatedly if they would like to continue playing.
 
 ## Code Specifications For Test
-The <b>main.cpp</b> contained in the starting repository is a <b>working procedural version</b> of the Keno game described above. You will need to create a <b>fully object oriented version</b> of this <b>same</b> game that will exactly match the given user interface below and code structure based on the UML Class Diagram given below. Use comments in your code to describe where your solution represents the encapsulation and abstraction concepts explained in lecture. 
+The <b>main.cpp</b> contained in the starting repository is a <b>working procedural version</b> of the Keno game described above. You will need to create a <b>fully object oriented version</b> of this <b>same</b> game that will exactly match the given user interface below and code structure based on the UML Class Diagram given below. Use comments in your code to describe where your solution represents the encapsulation and abstraction concepts explained in lecture. <b>Be sure that you leave the gen.seed(0); statement in the random number generation code. This will help you and I to check the codes correct operation.</b>
+
+<img src="KenoSeed.png" alt="UML Diagram" width="750">
 
 ### UML Diagram for Keno Game
 <img src="keno_UML.png" alt="UML Diagram" width="750">
