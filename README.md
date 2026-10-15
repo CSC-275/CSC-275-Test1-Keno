@@ -28,7 +28,7 @@ The program allows the user to play repeatedly if they would like to continue pl
 The <b>main.cpp</b> contained in the starting repository is a <b>working procedural version</b> of the Keno game described above. You will need to create a <b>fully object oriented version</b> of this <b>same</b> game that will exactly match the given user interface below and code structure based on the UML Class Diagram given below. Use comments in your code to describe where your solution represents the encapsulation and abstraction concepts explained in lecture. 
 
 ### UML Diagram for Keno Game
-<img src="keno_UML.png" alt="UML Diagram" width="650">
+<img src="keno_UML.png" alt="UML Diagram" width="750">
 
 ### Game Interface Prototype Example
 <pre><b>To play Keno, select 10 unique (no repeats) numbers in the range of 1-80.
