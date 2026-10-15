@@ -80,7 +80,6 @@ Matching 6 of 20 numbers wins $10
 
 Play another round? (y/n): n
 
-
 THANKS FOR PLAYING!!
 </b></pre>
 
