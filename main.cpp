@@ -9,7 +9,6 @@ int main() {
     int temp=0;
     std::vector <int> playerNumbers, kenoNumbers, matches;;
 
-
     do {
         std::cout << "\nTo play Keno, select 10 unique (no repeats) numbers in the range of 1-80.\n\n";
         std::cout << "Let's Play Keno!\n\n";
