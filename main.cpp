@@ -89,7 +89,7 @@ int main() {
             std::cout<<"\nMatching " << matches.size() << " of 20 numbers wins ";
             switch (matches.size()){
                 case 10:
-                    std::cout<<"the GRAND PRIZE of $250,000";
+                    std::cout<<"the GRAND PRIZE of $25,000";
                 break;
                 case 9:
                     std::cout << "$2,500";
