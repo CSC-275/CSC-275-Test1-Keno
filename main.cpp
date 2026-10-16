@@ -21,7 +21,7 @@ int main() {
             {
                 error = true;
                 std::cin.clear();
-                std::cin.sync();
+                std::cin.ignore(100,'\n');
                 std::cout << "Invalid data input! Try again. ";
             }
             else if (temp > 80)
